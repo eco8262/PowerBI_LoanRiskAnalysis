@@ -1,0 +1,48 @@
+BranchID,BranchName,Address,Coordinates,Region
+10400-016,Prince George,"299 Victoria St, Prince George, BC V2L 5B8","53.9169 N, 122.7494 W",Prince George
+10650-016,Campbell River,"1000 Shoppers Row, Campbell River, BC V9W 2C6","50.0247 N, 125.2467 W",Campbell River
+10640-016,Nanaimo,"#101–6551 Aulds Rd, Nanaimo, BC V9T 6K2","49.2365 N, 124.0440 W",Nanaimo
+00510-016,West Vancouver,"1550 Marine Drive, West Vancouver, BC V7V 1H8","49.3273 N, 123.1606 W",West Vancouver
+10260-016,Edgemont Village,"3160 Edgemont Blvd, North Vancouver, BC V7R 2N9","49.3389 N, 123.1139 W",North Vancouver
+00500-016,North Vancouver,"1457 Lonsdale Ave, North Vancouver, BC V7M 2H9","49.3245 N, 123.0726 W",North Vancouver
+10150-016,Point Grey,"4498 West 10th Ave, Vancouver, BC V6R 2H9","49.2647 N, 123.2050 W",Vancouver
+10100-016,English Bay,"1040 Denman Street, Vancouver, BC V6G 2M5","49.2890 N, 123.1410 W",Vancouver
+00280-016,Hastings & Burrard,"999 West Hastings St, Vancouver, BC V6C 1M3","49.2879 N, 123.1187 W",Vancouver
+00020-016,Vancouver Main,"885 West Georgia St, Vancouver, BC V6C 3G1","49.2840 N, 123.1192 W",Vancouver
+10210-016,Yaletown,"1196 Pacific Blvd, Vancouver, BC V6Z 2X7","49.2734 N, 123.1211 W",Vancouver
+10080-016,Wayfoong House,"681 Main Street, Vancouver, BC V6A 2V4","49.2797 N, 123.0995 W",Vancouver
+10030-016,South Granville,"3022 Granville St, Vancouver, BC V6H 3J8","49.2583 N, 123.1390 W",Vancouver
+00090-016,Broadway & Ash,"601 West Broadway, Vancouver, BC V5Z 4C2","49.2635 N, 123.1159 W",Vancouver
+00050-016,Hastings & Penticton,"2590 East Hastings St, Vancouver, BC V5K 1Z3","49.2814 N, 123.0562 W",Vancouver
+00110-016,Kerrisdale,"2164 West 41st Ave, Vancouver, BC V6M 1Z1","49.2347 N, 123.1580 W",Vancouver
+10230-016,Shaughnessy,"5688 Granville Street, Vancouver, BC V6M 3C5","49.2370 N, 123.1393 W",Vancouver
+10220-016,Oakridge Banking Centre,"583 West 41st Ave, Vancouver, BC V5Z 2M7","49.2337 N, 123.1190 W",Vancouver
+10760-016,Broadway Green,"2910 Virtual Way, Vancouver, BC V5M 0B2","49.2575 N, 123.0372 W",Vancouver
+10730-016,Brentwood,"#3–4447 Lougheed Hwy, Burnaby, BC V5C 3Z2","49.2673 N, 123.0025 W",Burnaby
+10380-016,Marpole,"8118 Granville Street, Vancouver, BC V6P 4Z4","49.2075 N, 123.1400 W",Vancouver
+10060-016,Fraser & 48th,"6373 Fraser Street, Vancouver, BC V5W 3A3","49.2250 N, 123.0903 W",Vancouver
+00160-016,Kingsway & Wessex,"3366 Kingsway, Vancouver, BC V5R 5L2","49.2324 N, 123.0333 W",Vancouver
+10070-016,Aberdeen Centre,"Unit 1160 – 4151 Hazelbridge Way, Richmond, BC V6X 3L7","49.1841 N, 123.1336 W",Richmond
+10300-016,Kingsway & Willingdon,"#2829–4500 Kingsway, Burnaby, BC V5H 2A9","49.2276 N, 123.0019 W",Burnaby
+10290-016,Fortuna House,"6168 No. 3 Road, Richmond, BC V6Y 2B3","49.1703 N, 123.1362 W",Richmond
+00140-016,Kingsway & Royal Oak,"5210 Kingsway, Burnaby, BC V5H 2E9","49.2255 N, 122.9975 W",Burnaby
+10120-016,No. 3 & Park,"6800 No. 3 Road, Richmond, BC V6Y 2C4","49.1745 N, 123.1377 W",Richmond
+10170-016,Lougheed & North Road,"#1–405 North Road, Coquitlam, BC V3K 3V9","49.2484 N, 122.8971 W",Coquitlam
+10710-016,Port Coquitlam,"#41–2755 Lougheed Hwy (PoCo Place), Port Coquitlam, BC V3B 5Y9","49.2731 N, 122.7699 W",Port Coquitlam
+10040-016,New Westminster 6th & 5th,"504 6th Street, New Westminster, BC V3L 3B4","49.2145 N, 122.9125 W",New Westminster
+10460-016,Kamloops,"380 Victoria Street, Kamloops, BC V2C 2A5","50.6764 N, 120.3319 W",Kamloops
+10130-016,Surrey (City Centre),"10388 City Parkway, Surrey, BC V3T 4Y8","49.1905 N, 122.8490 W",Surrey
+10200-016,Scott Road (Surrey),"#101–7500 120th St, Surrey (Delta border), BC V3W 3N1","49.1420 N, 122.8815 W",Surrey
+10690-016,Maple Ridge,"20395 Lougheed Highway, Maple Ridge, BC V2X 2P9","49.2194 N, 122.6217 W",Maple Ridge
+10570-016,South Point (White Rock),"3099 152nd Street (South Point Mall), White Rock, BC V4P 3K1","49.0514 N, 122.8023 W",White Rock
+10680-016,Langley,"20045 Langley Bypass, Langley, BC V3A 8R6","49.1050 N, 122.6605 W",Langley
+00680-016,White Rock,"1493 Johnston Rd, White Rock, BC V4B 3Z4","49.0260 N, 122.8020 W",White Rock
+10670-016,Abbotsford,"32412 South Fraser Way, Abbotsford, BC V2T 1X3","49.0500 N, 122.3290 W",Abbotsford
+10660-016,Chilliwack,"45850 Yale Road (City Gate Sq), Chilliwack, BC V2P 2A9","49.1664 N, 121.9580 W",Chilliwack
+10610-016,Langford Parkway (Vic),"2968 Jacklin Road, Langford, BC V9B 3Y1","48.4473 N, 123.5020 W",Langford
+10600-016,Victoria Metro,"869 Douglas Street, Victoria, BC V8W 2B9","48.4263 N, 123.3665 W",Victoria
+10580-016,Oak Bay (Victoria),"#102–1831 Oak Bay Ave, Victoria, BC V8R 1C3","48.4261 N, 123.3270 W",Victoria
+10420-016,Vernon,"3321 30th Ave, Vernon, BC V1T 2C9","50.2673 N, 119.2720 W",Vernon
+10430-016,Kelowna (Main),"384 Bernard Avenue, Kelowna, BC V1Y 6N5","49.8867 N, 119.4956 W",Kelowna
+10250-016,Orchard Plaza (Kelowna),"1950 Cooper Road, Kelowna, BC V1Y 8K5","49.8885 N, 119.4562 W",Kelowna
+01850-016,Penticton,"201 Main Street, Penticton, BC V2A 5B2","49.4995 N, 119.5948 W",Penticton
